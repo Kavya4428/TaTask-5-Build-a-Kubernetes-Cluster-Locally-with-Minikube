@@ -1,7 +1,5 @@
 # Task-5-Build-a-Kubernetes-Cluster-Locally-with-Minikube
 
-# Kubernetes-Cluster-with-Minikube
-
 Install Minikube on an Amazon EC2 instance using the `none` driver and deploying a simple NGINX app exposed via a `NodePort`.
 
 ## Prerequisites
